@@ -1,0 +1,1 @@
+Solutions to Programming Paradigms labs.
